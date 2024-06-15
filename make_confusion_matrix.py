@@ -6,7 +6,6 @@ import pandas as pd
 PATH = 'C:\\Code\\Thesis\\LoGAN\\results\\'
 VERBOSE = True
 
-
 count = 0
 folders = ['black','blue','brown', 'cyan','gray', 'green','orange','pink','purple','red','white','yellow']
 

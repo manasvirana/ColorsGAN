@@ -7,7 +7,6 @@ import numpy as np
 import matplotlib.pyplot as plt
 from sklearn.cluster import MiniBatchKMeans
 
-
 PATH = 'C:\\Code\\Thesis\\LoGAN\\'
 TRAINING = True
 VERBOSE = True

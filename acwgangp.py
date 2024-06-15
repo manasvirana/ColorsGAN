@@ -3,7 +3,6 @@
 '''
 Most of the code from https://github.com/hwalsuklee/tensorflow-generative-model-collections/
 '''
-
 from __future__ import division
 import os
 import time

@@ -12,7 +12,6 @@ from PIL import Image
 Data_PATH = 'C:\\Code\\Thesis\\LoGAN\\data\\logos' 
 label_csv_PATH = 'C:\\Code\\Thesis\\LoGAN\\data\\one_hot_encoding_color_icon.csv' 
 
-
 # Parameters
 IMAGE_SIZE = 32
 IMAGE_SHAPE = [IMAGE_SIZE, IMAGE_SIZE, 3] # 3 is number of channels

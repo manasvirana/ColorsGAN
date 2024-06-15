@@ -11,7 +11,6 @@ from utils import check_folder
 
 import tensorflow as tf
 import argparse
-
 """parsing and configuration"""
 def parse_args():
     desc = "Tensorflow implementation of GAN collections"

@@ -4,7 +4,6 @@ import sys
 import re
 import pandas as pd
 import webcolors
-
 PATH = 'C:\\Code\\Thesis\\LoGAN\\'
 TRAINING = True
 VERBOSE = True
